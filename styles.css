@@ -1,0 +1,54 @@
+body {
+    margin: 0 auto;
+    background: #edf2f7;
+    font-family: 'Roboto Flex', sans-serif;
+}
+
+.nav {
+    margin-top: 0;
+    padding-top: 1px;
+    text-align: center;
+    width: 100%;
+    background: white;
+}
+
+container {
+    width: 100%;
+    margin: 0 auto;
+}
+
+.main {
+    display: flex;
+}
+
+.content {
+    width: 500px;
+    height: 500px;
+    margin: 80px 140px 0px 140px;
+    background: white;
+}
+
+h3 {
+    text-align: left;
+    float: left;
+    padding-left: 10px;
+}
+
+span {
+    text-align: right;
+    float: right;
+    padding-top: 23px;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    max-height: 375px;
+}
+
+p {
+    text-align: center;
+    /* padding: 10px; */
+}
